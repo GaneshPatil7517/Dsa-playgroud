@@ -6,7 +6,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/DSA-Playground/">
+    <BrowserRouter basename="/Dsa-playgroud/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
